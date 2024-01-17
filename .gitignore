@@ -1,0 +1,6 @@
+*.elf
+*.lst
+*.o
+
+# file from IDAPro
+*.i64
